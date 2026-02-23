@@ -1,0 +1,10 @@
+npx create-react-app folder_name
+or
+npm create vite
+
+npm run dev
+
+
+
+hooks manage states 
+1. useState for manage counter
