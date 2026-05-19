@@ -8,3 +8,6 @@ npm run dev
 
 hooks manage states 
 1. useState for manage counter
+
+
+go to the tailwind and install their dependecis for adding css framework
